@@ -9,14 +9,10 @@ export default {
   name: 'Login',
   data() {
     return {
-      msg: '智能设备检测研究',
+      msg: '这是一条信息',
     };
   },
-  methods: {
-    test() {
-      console.log('测试commit成功啦222 ');
-    },
-  },
+  methods: {},
 };
 </script>
 
